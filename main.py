@@ -43,6 +43,7 @@ while True:
   
   play_again = input("Would you like to play again? Enter y or n.  ")
   if play_again != 'y':
+    print("Thanks for playing!")
     break
     #use break to the break the loop and end the game
 
